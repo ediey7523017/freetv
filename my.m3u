@@ -649,21 +649,21 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
-https://get.perfecttv.net/fifawc.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
 
 #EXTINF:-1 tvg-id="703" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
-https://get.perfecttv.net/fifawc2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
 
 #EXTINF:-1 tvg-id="704" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
-https://get.perfecttv.net/fifawc3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
 #EXTINF:-1 tvg-id="706" tvg-name="SPOTV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=530" group-title="Unifi TV",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -735,9 +735,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroRia" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"N2sAl5bkrVDqj2jXlmdmkg","kid":"P3Jv1cu/WURDek2/q0MbEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
@@ -1588,132 +1586,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
-https://get.perfecttv.net/fifawc.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
 
 #EXTINF:-1 tvg-id="703" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.jpg?width=530" group-title="Sports",Unifi FIFA World Cup™ 2026 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
-https://get.perfecttv.net/fifawc2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
 
 #EXTINF:-1 tvg-id="704" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=530" group-title="Sports",Unifi FIFA World Cup™ 2026 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
-https://get.perfecttv.net/fifawc3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
 #EXTINF:-1 tvg-id="705" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9DB657EE-7589-4D2A-B4D5-C04B7BFAEB61/0-16x9.jpg?width=530" group-title="Sports",Unifi FIFA World Cup™ 2026 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44698807b32844cdaa459f51970a57b8:00faf338044bfccf10f33fda008eb8eb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://get.perfecttv.net/fifawc4.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa4&kid=44698807-b328-44cd-aa45-9f51970a57b8
-
-
-########################################################################## Movies ################################################################################
-
-#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_movies.png",HBO Signature
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://103.148.44.38:8000/play/a025/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="RockEntertainment.id" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="Movies",ROCK Entertainment
-https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="RockAction.id" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.webp" group-title="Movies",ROCK Action
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Movies",Thrill
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://i.ibb.co/bMQWnvbL/Zee-Bioskop-2025.webp" group-title="Movies",Z Bioskop
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="Movies",Galaxy
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="Movies",Galaxy Premium
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-logo="https://i.ibb.co/LDCzm6wP/Studio-Universal.webp" group-title="Movies",Studio Universal
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Uniques.id" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png" group-title="Movies",UNIQUES
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Originals.id" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" group-title="Movies",ORIGINALS
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Cineedge.id" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png" group-title="Movies",CINEEDGE
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="BuddyStar.id" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png" group-title="Movies",BUDDY STARS
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Superrix.id" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" group-title="Movies",SUPERRIX
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa4&kid=44698807-b328-44cd-aa45-9f51970a57b8
 
 
 ##########################################################################Astro Audio#################################################################################
