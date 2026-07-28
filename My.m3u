@@ -1194,6 +1194,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
 
+#EXTINF:-1 tvg-id="BeritaRTM" group-title="News & Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Berita_RTM_TVGuide.png",505 Berita RTM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"crHc8JJv8SgsREwvSzjyZg","kid":"nPKM-b4piHhoE7l5NyGOEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5213/default_primary.mpd
+
 #EXTINF:-1 tvg-id="CNN" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNN_v1.png",511 CNN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v34bl1VcSst0VfcRsqn/Fg","kid":"G2GKKRzs5EyYRd3fxP2bEA"}],"type":"temporary"}
@@ -1476,7 +1482,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 #EXTINF:-1 tvg-id="Sukan+" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sukan_RTM_TVGuide.png",806 Sukan+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6sPrtrSTYW5qUz6PRo7RTw","kid":"91AbMhzj7KeeRDe7i6quEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5212/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola3" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola3_2024.png",806 Astro Arena Bola 3
